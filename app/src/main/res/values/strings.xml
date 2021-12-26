@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">outlab 9</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Calender</string>
+    <string name="menu_slideshow">Add Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_name">Title</string>
+    <string name="event_course">Course</string>
+    <string name="event_deadlineTime">Deadline Time</string>
+    <string name="event_deadlineDate">Deadline Date</string>
+    <string name="event_description">Description</string>
+    <string name="event_create">Create</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+    <string-array name="types_of_events">
+        <item>Study Plan</item>
+        <item>Assignment</item>
+        <item>Exams</item>
+        <item>Lectures</item>
+    </string-array>
+</resources>
